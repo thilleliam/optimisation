@@ -1,0 +1,72 @@
+Visualisation des routes par période
+
+=== Période 1 ===
+
+  Aucune route dans cette période
+
+=== Période 2 ===
+
+Navettes:
+  Navette 1: (Classe 1, Type 1)
+  site0 --> site2 --> site4 --> site0
+
+  Navette 2: (Classe 1, Type 1)
+  site0 --> site2 --> site4 --> site0
+
+  Navette 3: (Classe 1, Type 1)
+  site0 --> site2 --> site4 --> site0
+
+
+=== Période 3 ===
+
+  Aucune route dans cette période
+
+=== Période 4 ===
+
+  Aucune route dans cette période
+
+=== Période 5 ===
+
+  Aucune route dans cette période
+
+=== Période 6 ===
+
+  Aucune route dans cette période
+
+=== Période 7 ===
+
+  Aucune route dans cette période
+
+=== Période 8 ===
+
+Navettes:
+  Navette 1: (Classe 1, Type 2)
+  site0 --> site2 --> site4 --> site0
+
+  Navette 2: (Classe 1, Type 2)
+  site0 --> site2 --> site4 --> site0
+
+  Navette 3: (Classe 1, Type 1)
+  site0 --> site2 --> site4 --> site0
+
+  Navette 4: (Classe 1, Type 2)
+  site0 --> site2 --> site4 --> site0
+
+  Navette 5: (Classe 1, Type 2)
+  site0 --> site2 --> site4 --> site0
+
+
+=== Période 9 ===
+
+  Aucune route dans cette période
+
+=== Période 10 ===
+
+Routes standard:
+  Route 1: (Classe 1, Type 1)
+site0 --(1,1)--> site0
+
+  Route 2: (Classe 1, Type 1)
+site0 --(1,1)--> site0
+
+

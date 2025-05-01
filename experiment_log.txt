@@ -1,0 +1,31 @@
+=== Expérience d'optimisation de tournées de véhicules ===
+
+Paramètres du problème:
+  Nombre de sites: 6
+  Nombre de périodes: 10
+  Nombre de types de véhicules: 2
+  Nombre de classes d'accès: 2
+
+Paramètres de l'algorithme:
+  Taille de la population: 30
+  Nombre de générations: 50
+  Taux de croisement: 0.8
+  Taux de mutation: 0.3
+
+Résultats:
+  Temps d'exécution: 0.70 secondes
+  Coût de la solution: 328.00
+  Solution réalisable: False
+  Nombre total de routes: 2
+  Nombre total de navettes: 8
+
+Utilisation des véhicules:
+  Classe 1, Type 1: 6 véhicules utilisés
+  Classe 1, Type 2: 4 véhicules utilisés
+
+Fréquences de visite:
+  site2: 2/2 visites
+  site4: 2/2 visites
+  site1: 0/2 visites
+  site3: 0/3 visites
+  site5: 0/1 visites

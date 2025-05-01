@@ -1,0 +1,105 @@
+Solution pour le problème de tournées de véhicules avec navettes
+Coût total: 328.00
+Solution réalisable: False
+
+Nombre de routes: 2
+Nombre de navettes fixes: 8
+
+Routes standards:
+  Route 1: Période 10, Classe 1, Type 1
+    Parcours: site0 -> site0
+    Coût: 0.00
+    Charge (poids/volume): 132/54
+    Livraisons:
+      site3: 29 unités de poids, 14 unités de volume
+      site2: 23 unités de poids, 11 unités de volume
+
+  Route 2: Période 10, Classe 1, Type 1
+    Parcours: site0 -> site0
+    Coût: 0.00
+    Charge (poids/volume): 132/54
+    Livraisons:
+      site3: 29 unités de poids, 14 unités de volume
+      site2: 23 unités de poids, 11 unités de volume
+
+Navettes fixes:
+  Navette 1: Période 8, Classe 1, Type 2
+    Trajet: site2 -> site4
+    Coût: 41.00
+    Charge (poids/volume): 66/32
+    Livraisons:
+      site2: 24 unités de poids, 11 unités de volume
+      site4: 42 unités de poids, 21 unités de volume
+
+  Navette 2: Période 8, Classe 1, Type 2
+    Trajet: site2 -> site4
+    Coût: 41.00
+    Charge (poids/volume): 66/32
+    Livraisons:
+      site2: 24 unités de poids, 11 unités de volume
+      site4: 42 unités de poids, 21 unités de volume
+
+  Navette 3: Période 2, Classe 1, Type 1
+    Trajet: site2 -> site4
+    Coût: 41.00
+    Charge (poids/volume): 63/31
+    Livraisons:
+      site2: 23 unités de poids, 11 unités de volume
+      site4: 40 unités de poids, 20 unités de volume
+
+  Navette 4: Période 8, Classe 1, Type 1
+    Trajet: site2 -> site4
+    Coût: 41.00
+    Charge (poids/volume): 66/32
+    Livraisons:
+      site2: 24 unités de poids, 11 unités de volume
+      site4: 42 unités de poids, 21 unités de volume
+
+  Navette 5: Période 2, Classe 1, Type 1
+    Trajet: site2 -> site4
+    Coût: 41.00
+    Charge (poids/volume): 63/31
+    Livraisons:
+      site2: 23 unités de poids, 11 unités de volume
+      site4: 40 unités de poids, 20 unités de volume
+
+  Navette 6: Période 8, Classe 1, Type 2
+    Trajet: site2 -> site4
+    Coût: 41.00
+    Charge (poids/volume): 66/32
+    Livraisons:
+      site2: 24 unités de poids, 11 unités de volume
+      site4: 42 unités de poids, 21 unités de volume
+
+  Navette 7: Période 8, Classe 1, Type 2
+    Trajet: site2 -> site4
+    Coût: 41.00
+    Charge (poids/volume): 66/32
+    Livraisons:
+      site2: 24 unités de poids, 11 unités de volume
+      site4: 42 unités de poids, 21 unités de volume
+
+  Navette 8: Période 2, Classe 1, Type 1
+    Trajet: site2 -> site4
+    Coût: 41.00
+    Charge (poids/volume): 63/31
+    Livraisons:
+      site2: 23 unités de poids, 11 unités de volume
+      site4: 40 unités de poids, 20 unités de volume
+
+Fréquences de visite par site:
+  site2: 2/2 visites (OK)
+    Périodes: [2, 8]
+  site4: 2/2 visites (OK)
+    Périodes: [2, 8]
+  site1: 0/2 visites (Insuffisant)
+    Périodes: []
+  site3: 0/3 visites (Insuffisant)
+    Périodes: []
+  site5: 0/1 visites (Insuffisant)
+    Périodes: []
+
+Récapitulatif d'utilisation des véhicules par période:
+  Période 2: 3 véhicules
+  Période 8: 5 véhicules
+  Période 10: 2 véhicules
